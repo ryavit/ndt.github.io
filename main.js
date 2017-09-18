@@ -215,7 +215,7 @@ $(document).ready(function () {
       },
       v2: {
         fotoname: 'Фото человека',
-        src: 'tolstoy.png',
+        src: 'manager.png',
         hint: 'Вы разместили свое личное фото. Правильное решение!',
         verity: true
       },
