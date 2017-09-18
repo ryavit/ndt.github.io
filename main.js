@@ -185,7 +185,6 @@ $(document).ready(function () {
 
   var user = {
     answers: [0,0,0,0],
-    answers: [1,1,1,1],
     currentAnswer: ''
   }
 
